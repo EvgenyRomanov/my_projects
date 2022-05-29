@@ -1,4 +1,4 @@
-# Мои проекты
+# Мои работы
  
 [0. Угадай число на Python](https://github.com/EvgenyRomanov/home_task_mod8_9.1)  
 [1. Игра крестики-нолики на Python](https://github.com/EvgenyRomanov/home_task_B5.6)  
