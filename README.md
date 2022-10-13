@@ -1,2 +1,2 @@
-[1. Блог "Readme" на PHP](https://github.com/EvgenyRomanov/readme.git)  
+[1. Блог "Readme"](https://github.com/EvgenyRomanov/readme.git)  
 
