@@ -185,3 +185,10 @@
 
  [**Решение**](https://github.com/otusteamedu/PHP_2023/pull/649)
 --- 
+
+### 13) Паттерны работы с данными.  
+
+    Необходимо реализовать паттерн Active Record для произвольной таблицы. 
+
+ [**Решение**](https://github.com/otusteamedu/PHP_2023/pull/660)
+--- 
