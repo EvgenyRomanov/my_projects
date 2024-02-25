@@ -162,14 +162,14 @@
         },
     },
     {
-            priority: 3000,
-            conditions: {
-                param1 = 1,
-                param2 = 2
-            },
-            event: {
-                ::event::
-            },
+        priority: 3000,
+        conditions: {
+            param1 = 1,
+            param2 = 2
+        },
+        event: {
+            ::event::
+        },
     }
     
     От пользователя приходит запрос:
