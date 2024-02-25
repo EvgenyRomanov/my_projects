@@ -30,3 +30,7 @@ id user city phone
 [**Решение**](https://github.com/otusteamedu/PHP_2023/pull/446)
 --- 
 
+3) Необходимо создать свой пакет. В pull-request composer.json, в котором приводится пример подключения пакета.  \
+   
+[**Решение**](https://github.com/otusteamedu/PHP_2023/pull/488)
+--- 
