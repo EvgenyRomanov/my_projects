@@ -81,3 +81,8 @@
 
  [**Решение**](https://github.com/otusteamedu/PHP_2023/pull/542)
 --- 
+
+### 8) Решить задачу Leetcode https://leetcode.com/problems/merge-two-sorted-lists/ на слияние двух списков.  
+
+ [**Решение**](https://github.com/otusteamedu/PHP_2023/pull/559)
+--- 
