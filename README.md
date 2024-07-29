@@ -1,7 +1,8 @@
 ## Ранние проекты  
 - [1. Блог "Readme"](https://github.com/EvgenyRomanov/readme.git)  
-- [2. Сайт студии дизайна](https://github.com/EvgenyRomanov/studio_website.git)  
-- [3. Сайт моды (bitrix)](https://github.com/EvgenyRomanov/bitrix.git)  
+- [2. Сайт студии дизайна](https://github.com/EvgenyRomanov/studio_website.git)
+- [3. Слайдер](https://github.com/EvgenyRomanov/slider.git)
+- [4. Сайт моды (bitrix)](https://github.com/EvgenyRomanov/bitrix.git)  
 
 ## Минипроекты 
 Решения представлены как `pull requests` к заданиям в рамках курса OTUS  
