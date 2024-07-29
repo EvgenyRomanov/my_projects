@@ -1,6 +1,6 @@
 ## Ранние проекты  
-- [1. Блог "Readme"](https://github.com/EvgenyRomanov/readme.git)  
-- [2. Сайт студии дизайна](https://github.com/EvgenyRomanov/studio_website.git)
+- [1. Блог (PHP)](https://github.com/EvgenyRomanov/readme.git)  
+- [2. Вёрстка по макету Figma (html, css)](https://github.com/EvgenyRomanov/studio_website.git)
 - [3. Сайт моды (bitrix)](https://github.com/EvgenyRomanov/bitrix.git)  
 
 ## Минипроекты 
