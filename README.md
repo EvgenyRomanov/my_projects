@@ -2,7 +2,10 @@
 - [1. Блог (PHP)](https://github.com/EvgenyRomanov/readme.git)  
 - [2. Вёрстка по макету Figma (html, css)](https://github.com/EvgenyRomanov/studio_website.git)
 - [3. Сайт моды (bitrix)](https://github.com/EvgenyRomanov/bitrix.git)  
-
+  
+  
+  
+  
 ## Минипроекты 
 Решения представлены как `pull requests` к заданиям в рамках курса OTUS  
 ### 1)  Описание инфраструктуры в docker-compose.
